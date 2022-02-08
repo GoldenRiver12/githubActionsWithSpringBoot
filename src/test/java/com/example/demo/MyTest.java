@@ -8,7 +8,7 @@ class MyTest {
 
 	@Test
 	void sum() {
-		assertEquals(2, 2+1);
+		assertEquals(2, 1+1);
 	}
 
 }
